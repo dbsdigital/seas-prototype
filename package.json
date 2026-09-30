@@ -4,7 +4,7 @@
     "version": "12.0.0",
     "private": true,
     "engines": {
-        "node": "18.15.0"
+        "node": "22.14.0"
     },
     "scripts": {
         "start": "node start.js",
@@ -48,13 +48,13 @@
         "lodash": "^4.17.21",
         "marked": "^3.0.8",
         "moment": "^2.29.4",
-        "node-sass": "^6.0.1",
         "notifications-node-client": "^5.1.0",
         "nunjucks": "^3.2.1",
         "portscanner": "^2.1.1",
         "prettier": "^2.5.1",
         "randexp": "^0.5.3",
         "require-dir": "^1.0.0",
+        "sass": "^1.105.1",
         "sync-request": "^6.0.0",
         "universal-analytics": "^0.4.16",
         "url": "^0.11.0",
